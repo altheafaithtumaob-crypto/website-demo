@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+a {
+    display: block;
+    margin: 15px;
+    color: blue;
+}
+
+li {
+    margin: 8px;
+}
